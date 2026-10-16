@@ -123,6 +123,7 @@ src/
 
 [AGPL-3.0](LICENSE) + [Commons Clause](https://commonsclause.com/)
 
+
 - ✅ 个人使用、学习、研究
 - ✅ 二次修改（必须开源，保持相同许可证）
 - ✅ SaaS 部署（必须开源源码）
